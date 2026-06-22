@@ -1,0 +1,10 @@
+{
+  "name": "Math Scanner Calculator",
+  "description": "A modern mobile calculator with camera image recognition to scan, solve, and explain complex math homework.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
